@@ -1,0 +1,6 @@
+function showFact() {
+
+document.getElementById("fact").innerHTML =
+"Wireless communication uses electromagnetic waves to transfer information without physical cables.";
+
+}
